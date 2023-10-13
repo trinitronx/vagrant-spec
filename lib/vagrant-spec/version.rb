@@ -3,6 +3,6 @@
 
 module Vagrant
   module Spec
-    VERSION = "0.0.1"
+    VERSION = "0.0.2-pre.1"
   end
 end
